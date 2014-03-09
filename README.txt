@@ -1,3 +1,4 @@
+Author - Akshat Verma
 This project develops a Hadoop Map Reduce application for finding shortest path between indiviuals in a social network.
 Input file is assumed to be in the following format:
 A B,C,D
